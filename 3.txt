@@ -1,1 +1,1 @@
-This is 3.txt file
+This is 3.txt file. And this is the second commit.
